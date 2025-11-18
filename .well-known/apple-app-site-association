@@ -5,6 +5,7 @@
       "appID": "KC39NHFWCD.com.golftec.gttg",
       "paths": [
         "*",
+        "NOT /holiday-silver-package.html",
         "NOT /holiday-silver-package.html"
       ]
     }]
